@@ -1,4 +1,7 @@
 This is third file txt
- change made in local repository
- change to test
- ,,,m
+ /*
+ red color -->saved in working Directory
+ green color --> saved in Staging Area ( adding a file after clone the project )
+ white color --> saved in Local Repository ( after committ)
+ blue color --> (working directory)when you add/make code/change in the file ex: System.out.println("Hello World"); the file name become bleu, and this change has not been saved in the staging area then also the local repository.
+  */
